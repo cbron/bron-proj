@@ -2,8 +2,12 @@ bron
 =============
 
 
-#todo
+# Process (in order)
 
-* Translate everything within the next 50 years
-* Move text to a db or a json file ? Then use a single template.
-* Better menu system
+* Adjust the PDF OCR text to real text
+* Google translate
+* Translate the google translate
+* Add html tags to html column
+
+How address images ? 
+Is there an inline editor somewhere ? 
